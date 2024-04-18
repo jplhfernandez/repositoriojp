@@ -1,0 +1,24 @@
+html {
+background-image: url(https://i0.wp.com/dekorillo.pl/wp-content/uploads/2021/04/dinos_ver2_patterna_zielony_ciemny-e1692621965933.jpg?fit=2000%2C2000&ssl=1);
+color: white;
+}
+
+body {
+background: rgba(255,255,255,0.4);
+width: 800px;
+heigth: auto;
+margin: 10px auto;
+/*
+margin-top: 10px;
+margin-left: auto; 
+margin-right: auto; 
+margin-bottom: 10px;
+*/ 
+}
+
+border: 1px solid white;
+}
+
+p {
+border: 4px double black;
+}
